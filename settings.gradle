@@ -1,0 +1,4 @@
+include ':app:customviewpagers'
+include ':app:verticalviewpager'
+rootProject.name='TikTokClone'
+include ':app'
